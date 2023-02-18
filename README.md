@@ -1,6 +1,6 @@
 
 
-<p align="center"><a href="https://t.me/BotDuniyaXd"><img src="https://telegra.ph/file/b2b4fee33e6c7d2a5651a.jpg" width="300"></a></p>
+<p align="center"><a href="https://t.me/TG_FRIENDSS"><img src="https://telegra.ph/file/b2b4fee33e6c7d2a5651a.jpg" width="300"></a></p>
  
 
 ## 🛠 Available Commands:
@@ -29,7 +29,7 @@ COMMAND | FUNCTION
 The easiest way to host this bot
 
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/SANGRAM-MUSIC/Wood-mysic"><img src="https://img.shields.io/badge/HEROKU-DEPLOY-blue?style=plastic&logo=heroku&logoColor=yellow"width="300"heigh="100" /></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/SANGRAM-MUSIC/herokumusic"><img src="https://img.shields.io/badge/HEROKU-DEPLOY-blue?style=plastic&logo=heroku&logoColor=yellow"width="300"heigh="100" /></a></p>
 
 
 ## VPS Deployment
