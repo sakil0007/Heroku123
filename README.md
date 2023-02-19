@@ -3,6 +3,18 @@
 <p align="center"><a href="https://t.me/TG_FRIENDSS"><img src="https://telegra.ph/file/b2b4fee33e6c7d2a5651a.jpg" width="300"></a></p>
  
 
+
+##   💥IMPORTANT NOTICE💥
+
+🐒  **YOUR BOT AND ASSISTANT MUST
+      BE ADMIN IN YOUR SUPPORT
+       GROUP AND CHANNEL THEN
+        YOUR BOT WILL WORK..
+         AFTER END DEPLOY
+         TYPE /Reload IN
+          SUPPORT GROUP
+           THEN PLAY** 🐒
+
 ## 🛠 Available Commands:
 
 🏷️ --**Common Commands**-- :
