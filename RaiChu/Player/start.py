@@ -40,28 +40,23 @@ async def _human_time_duration(seconds):
 async def start(_, message: Message):
         await message.reply_text(
         f"""━━━━━━━━━━━━━━━━━━━━━━━━
-
 💥 𝐇𝐞𝐥𝐥𝐨, 𝐈 𝐚𝐦 𝐒𝐮𝐩𝐞𝐫𝐟𝐚𝐬𝐭 𝐇𝐢𝐠𝐡 𝐐𝐮𝐚𝐥𝐢𝐭𝐲
-
 𝐍𝐨 𝐋𝐚𝐠 𝐕𝐂 𝐌𝐮𝐬𝐢𝐜 𝐏𝐥𝐚𝐲𝐞𝐫 𝐁𝐨𝐭.
 
-┏━━━━━━━━━━━━━━━━━━━━━━┓
+┏━━━━━━━━━━━━━━━━━━━┓
 ┣★ 𝐎𝐰𝐧𝐞𝐫'𝐱𝐃 : @THE_VIP_BOY
 ┣★ 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 » : @VIP_CREATORS
 ┣★ 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 » : @TG_FRIENDSS
-┗━━━━━━━━━━━━━━━━━━━━━━┛
+┗━━━━━━━━━━━━━━━━━━━┛
 
 💞 𝐉𝐮𝐬𝐭 𝐀𝐝𝐝 𝐌𝐞 » 𝐓𝐨 𝐘𝐨𝐮𝐫 𝐆𝐫𝐨𝐮𝐩 𝐀𝐧𝐝
-
 𝐄𝐧𝐣𝐨𝐲 𝐒𝐮𝐩𝐞𝐫 𝐐𝐮𝐚𝐥𝐢𝐭𝐲 ❥︎𝐌𝐮𝐬𝐢𝐜.
-
 ━━━━━━━━━━━━━━━━━━━━━━━━
-
         """,
         reply_markup=InlineKeyboardMarkup(
             [
-                [     
-                     InlineKeyboardButton(
+                [                   
+                    InlineKeyboardButton(
                         "🌷𝐀𝐝𝐝 𝐌𝐞 𝐌𝐨𝐢 𝐋𝐮𝐯🌷", url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
                     ),
                 ],
@@ -70,7 +65,7 @@ async def start(_, message: Message):
                        "🍒𝐉𝐨𝐢𝐧 𝐁𝐚𝐛𝐲🥀", url=f"https://t.me/VIP_CREATORS"
                     ),
                     InlineKeyboardButton(
-                       "😇𝐂𝐨𝐦𝐞 𝐇𝐞𝐫𝐞⛦⃕‌🇮🇳", url=f"https://t.me/TG_FRIENDSS"
+                       "😇𝐂𝐨𝐦𝐞 𝐇𝐞𝐫𝐞⛦⃕͜🇮🇳", url=f"https://t.me/TG_FRIENDSS"
                     )
                 ],[
                     InlineKeyboardButton(
@@ -83,13 +78,12 @@ async def start(_, message: Message):
      disable_web_page_preview=True
     )
 
-        
+
 @Client.on_message(command(["repo", "source"]) & filters.group & ~filters.edited)
 async def help(client: Client, message: Message):
     await message.reply_photo(
-
         photo=f"https://telegra.ph/file/53299d9b822f47eff93f4.jpg",
-        caption=f"""🍒𝐇𝐞𝐫𝐞 𝐈𝐬 𝐓𝐡𝐞 𝐒𝐨𝐮𝐫𝐜𝐞 𝐂𝐨𝐝𝐞 𝐅𝐨𝐫𝐤 𝐀𝐧𝐝 𝐆𝐢𝐯𝐞 𝐒𝐭𝐚𝐫𝐬✨""",        
+        caption=f"""🍒𝐇𝐞𝐫𝐞 𝐈𝐬 𝐓𝐡𝐞 𝐒𝐨𝐮𝐫𝐜𝐞 𝐂𝐨𝐝𝐞 𝐅𝐨𝐫𝐤 𝐀𝐧𝐝 𝐆𝐢𝐯𝐞 𝐒𝐭𝐚𝐫𝐬✨""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
