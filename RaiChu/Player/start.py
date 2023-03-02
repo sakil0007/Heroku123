@@ -65,7 +65,7 @@ async def start(_, message: Message):
                        "🍒𝐉𝐨𝐢𝐧 𝐁𝐚𝐛𝐲🥀", url=f"https://t.me/VIP_CREATORS"
                     ),
                     InlineKeyboardButton(
-                       "🌹⃝𖣔𝐂𝐨𝐦𝐞 𝐇𝐞𝐫𝐞⛦⃕͜🇮🇳", url=f"https://t.me/TG_FRIENDSS"
+                       "😇𝐂𝐨𝐦𝐞 𝐇𝐞𝐫𝐞⛦⃕͜🇮🇳", url=f"https://t.me/TG_FRIENDSS"
                     )
                 ],[
                     InlineKeyboardButton(
