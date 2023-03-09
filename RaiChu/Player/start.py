@@ -23,9 +23,9 @@ async def start(_, message: Message):
 𝐍𝐨 𝐋𝐚𝐠 𝐕𝐂 𝐌𝐮𝐬𝐢𝐜 𝐏𝐥𝐚𝐲𝐞𝐫 𝐁𝐨𝐭.
 
 ┏━━━━━━━━━━━━━━━━━━━┓
-┣★ 𝐎𝐰𝐧𝐞𝐫'𝐱𝐃 : @THE_VIP_BOY
-┣★ 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 » : @VIP_CREATORS
-┣★ 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 » : @TG_FRIENDSS
+┣★ 𝐎𝐰𝐧𝐞𝐫'𝐱𝐃 : @its_Me_SakiL
+┣★ 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 » : @VipFreinds
+┣★ 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 » : @VipFreinds
 ┗━━━━━━━━━━━━━━━━━━━┛
 
 💞 𝐉𝐮𝐬𝐭 𝐀𝐝𝐝 𝐌𝐞 » 𝐓𝐨 𝐘𝐨𝐮𝐫 𝐆𝐫𝐨𝐮𝐩 𝐀𝐧𝐝
@@ -41,15 +41,15 @@ async def start(_, message: Message):
                 ],
                 [
                     InlineKeyboardButton(
-                       "🍒𝐉𝐨𝐢𝐧 𝐁𝐚𝐛𝐲🥀", url=f"https://t.me/VIP_CREATORS"
+                       "🍒𝐉𝐨𝐢𝐧 𝐁𝐚𝐛𝐲🥀", url=f"https://t.me/VipFreinds"
                     ),
                     InlineKeyboardButton(
-                       "😇𝐂𝐨𝐦𝐞 𝐇𝐞𝐫𝐞⛦⃕͜🇮🇳", url=f"https://t.me/TG_FRIENDSS"
+                       "😇𝐂𝐨𝐦𝐞 𝐇𝐞𝐫𝐞⛦⃕͜🇮🇳", url=f"https://t.me/VipFreinds"
                     )
                 ],[
                     InlineKeyboardButton(
-                        "★ 𝐎𝐰𝐧𝐞𝐫'𝐱𝐃 ★",
-                        url=f"https://t.me/THE_VIP_BOY",
+                        "★ 𝐎𝐰𝐧𝐞𝐫' ★",
+                        url=f"https://t.me/its_Me_SakiL",
                     )
                 ]
             ]
@@ -61,7 +61,7 @@ async def start(_, message: Message):
 @Client.on_message(command(["repo", "source"]) & filters.group & ~filters.edited)
 async def help(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/53299d9b822f47eff93f4.jpg",
+        photo=f"",
         caption=f"""🍒𝐇𝐞𝐫𝐞 𝐈𝐬 𝐓𝐡𝐞 𝐒𝐨𝐮𝐫𝐜𝐞 𝐂𝐨𝐝𝐞 𝐅𝐨𝐫𝐤 𝐀𝐧𝐝 𝐆𝐢𝐯𝐞 𝐒𝐭𝐚𝐫𝐬✨""",
         reply_markup=InlineKeyboardMarkup(
             [
