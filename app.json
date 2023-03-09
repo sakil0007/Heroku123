@@ -1,5 +1,5 @@
 {
-    "name": "RaiChu Music Bot",
+    "name": "Sakil Music Bot",
     "description": "Telegram bot for Streaming  Music trought the Telegram Group Video Chat, powered by pytgcalls and pyrogram",
     "logo": "https://telegra.ph/file/b581039c9a18d939d19dd.jpg",
     "keywords": [
@@ -7,9 +7,9 @@
         "telegram bot",
         "pyrogram"
     ],
-    "website": "https://t.me/BotDuniyaXd",
+    "website": "https://t.me/VipFreinds",
     "repository": "https://github.com/SANGRAM-MUSIC/herokumusic",
-    "success_url": "https://t.me/Tg_friendss",
+    "success_url": "https://t.me/VipFreinds",
     "env": {
         "API_ID": {
             "description": "your API_ID from my.telegram.org",
